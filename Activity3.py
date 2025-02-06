@@ -14,7 +14,7 @@ def div(x, y):
 # real calc
 
 print("------------")
-print("    CHOSE   ")
+print("    CHOOSE   ")
 print("------------")
 
 print("a) Addition")
@@ -26,7 +26,7 @@ choice = input("Enter Your Operator (a, b, c or d): ")
 
 if choice != "a" and "b" and "c" and "d":
     print("Invalid")
-    
+
     num1 = int(input("Enter The 1st Number: "))
     num2 = int(input("Enter The 2nd Number: "))
 
